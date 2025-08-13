@@ -5,4 +5,4 @@ using namespace std;
 // short sa=9;
 // cout<<sa;}
 
-int marksInMaths = 
+int marksInMaths = 90;
