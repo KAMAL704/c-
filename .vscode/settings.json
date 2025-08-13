@@ -56,6 +56,6 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "code-auto-commit.commitTimeInterval": 1000,
+  "code-auto-commit.commitTimeInterval": 100000,
   "code-auto-commit.autoPush": true
 }
