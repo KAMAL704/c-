@@ -1,10 +1,10 @@
 
 
-#include<stdio.h>
-int main(){
-    printf("kamal");
-    return 0;
-}
+// #include<stdio.h>
+// int main(){
+//     printf("kamal");
+//     return 0;
+// }
 
 
 #include<stdio.h>
@@ -16,8 +16,5 @@ printf("%d",c);
 
 
 return 0;
-
-
-
 
 }
