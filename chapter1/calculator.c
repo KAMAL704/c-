@@ -31,7 +31,7 @@
 int main(){
     
     int a = 15;
-    int b = 7;
+    int b = 6;
     int sum = a+b;
     int diff = a-b;
     int divide = a/b;
