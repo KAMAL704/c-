@@ -30,7 +30,7 @@
 #include<stdio.h>
 int main(){
     
-    int a = 9;
+    int a = 15;
     int b = 7;
     int sum = a+b;
     int diff = a-b;
