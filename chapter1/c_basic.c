@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 int main(){
-    printf("my name is);
+    printf("myself ka);
     return 0;
 }
 
