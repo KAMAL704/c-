@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-    int a=2,b=
+    int a=2,b=6
     
 }
