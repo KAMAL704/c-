@@ -1,26 +1,19 @@
 #include <stdio.h>
 
 int main() {
-    int marks;
-    char grade;
+    int a = 5, b = 10;
 
-    printf("Enter your marks (0-100): ");
-    scanf("%d", &marks);
-
-    if (marks >= 90 && marks <= 100)
-        grade = 'A+';
-    else if (marks >= 80)
-        grade = 'A';
-    else if (marks >= 70)
-        grade = 'B';
-    else if (marks >= 60)
-        grade = 'C';
-    else if (marks >= 50)
-        grade = 'D';
-    else if (marks >= 0)
-        grade = 'F';
     
+    if (a > 0 && b > 0)
+        printf("AND: Both a and b are positive.\n");
 
-    printf("Your grade is: %c\n", grade);
+    
+    if (a > 0 || b < 0)
+        printf("OR: At least one condition is true.\n");
+
+    
+    if (!(a == b))
+        printf("NOT: a is not equal to b.\n");
+
     return 0;
 }
