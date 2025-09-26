@@ -1,2 +1,2 @@
 #include<stdio.h>
-int msin
+int main
