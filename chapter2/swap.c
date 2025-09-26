@@ -2,5 +2,5 @@
 int main(){
     int number;
     printf("input the number of a ")
-    scanf("%d",&number)
+    scanf("%d",&number);
 }
