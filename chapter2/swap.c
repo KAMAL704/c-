@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(){
-    printf("input ")
+    printf("input the number")
 }
