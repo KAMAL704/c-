@@ -5,7 +5,7 @@ int main() {
 
     
     if (a > 0 && b > 0)
-        printf("AND: Both a and b are positive.\n");
+        printf("AND: Bo\n");
 
     
     if (a > 0 || b < 0)
