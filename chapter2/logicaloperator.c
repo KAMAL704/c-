@@ -5,7 +5,7 @@ int main() {
 
     
     if (a > 0 && b > 0)
-        printf("AND: nn\n");
+        printf("AND: n\n");
 
     
     if (a > 0 || b < 0)
