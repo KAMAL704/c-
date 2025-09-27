@@ -5,7 +5,7 @@ int main() {
 
     
     if (a > 0 && b > 0)
-        printf("AND: hfsdkhf\n");
+        printf("AND: hfs\n");
 
     
     if (a > 0 || b < 0)
