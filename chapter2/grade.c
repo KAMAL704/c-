@@ -19,6 +19,8 @@ int main() {
         grade = 'D';
     else if (marks >= 0 && marks<=30)
         grade = 'F';
+        else if (marks >= 0 && marks<=30)
+        grade = 'F';
     
 
     printf("Your grade is: %c\n", grade);
