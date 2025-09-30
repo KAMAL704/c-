@@ -20,7 +20,7 @@ int main() {
     else if (marks >= 0 && marks<=30)
         grade = 'F';
         else if (marks >=100)
-        grade = 'F';
+        grade =
     
 
     printf("Your grade is: %c\n", grade);
