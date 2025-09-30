@@ -14,7 +14,7 @@ int main() {
     else if (marks >= 70 && marks <=80)
         grade = 'C';
     else if (marks >= 60 && marks <=70)
-        grade = 'C';
+        grade = 'D';
     else if (marks > 30 && marks <=60)
         grade = 'D';
     else if (marks >= 0 && marks<=30)
