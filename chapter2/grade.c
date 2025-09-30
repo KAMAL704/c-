@@ -22,7 +22,7 @@ int main() {
         else if (marks >=100){
             printf("invalid")
         }
-       
+    
     
 
     printf("Your grade is: %c\n", grade);
