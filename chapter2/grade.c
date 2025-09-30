@@ -19,7 +19,7 @@ int main() {
         grade = 'D';
     else if (marks >= 0 && marks<=30)
         grade = 'F';
-        else if (marks >= 0 && marks)
+        else if (marks >=100)
         grade = 'F';
     
 
