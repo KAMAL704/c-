@@ -9,7 +9,7 @@ int main() {
 
     if (marks >= 90 && marks <= 100)
         grade = 'A+';
-    else if (marks >= 80 && marks )
+    else if (marks >= 80 && marks <)
         grade = 'A';
     else if (marks >= 70)
         grade = 'B';
