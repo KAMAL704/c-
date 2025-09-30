@@ -19,9 +19,7 @@ int main() {
         grade = 'D';
     else if (marks >= 0 && marks<=30)
         grade = 'F';
-        else  (marks >=100){
-            printf("invalid");
-        }
+        
     
     
 
