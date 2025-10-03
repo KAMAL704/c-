@@ -9,6 +9,6 @@ do
 if(num>0);
     sum == sum += num;
 
-while(sum>0);
+while(sum>0); 
     printf("%d sum of number," &sum);
 }
