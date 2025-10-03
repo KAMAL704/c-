@@ -9,10 +9,11 @@ do{
     scanf("%d", &num);
     if(num>0)
     sum += num;
+    printf("Current sum = %d\n", sum);
 
 
 }
 while(num>0);
-    printf("sum of number= %d\n" ,sum);
+    printf(" total sum of number= %d\n" ,sum);
     return 0;
 } 
