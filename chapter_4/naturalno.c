@@ -1,20 +1,16 @@
 #include <stdio.h>
 
 int main() {
-    int num, sum = 0;
-    int i = 1;   
+    int num = 1;   
+    int sum = 0;
 
     do {
-        printf("Enter number %d: ", i);
-        scanf("%d", &num);
-
         sum += num;   
-        i ++;         
-
+        num ++;        
     } 
-    while (i <= 10);   
+    while (num <= 10);   
 
-    printf("Sum of 10 numbers = %d\n", sum);
+    printf("Sum of numbers from 1 to 10 = %d\n", sum);
 
     return 0;
 }
