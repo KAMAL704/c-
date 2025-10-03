@@ -5,7 +5,7 @@ int main() {
     
 
     do {
-        printf("%d", num);
+        printf("%d\n", num);
         num++;
     } 
     while (num <= 10);   
