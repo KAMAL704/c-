@@ -11,4 +11,4 @@ if(num>0);
 
 while(sum>0); 
     printf("%d sum of number," &sum);
-}
+} 
