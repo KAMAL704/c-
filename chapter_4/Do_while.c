@@ -5,10 +5,11 @@ int main(){
 
 do{
 
-    printf("enter the number: ");
+    printf("enter the number %d: ");
     scanf("%d", &num);
     if(num>0)
     sum += num;
+
 
 }
 while(num>0);
