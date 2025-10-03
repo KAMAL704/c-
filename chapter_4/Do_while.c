@@ -4,5 +4,7 @@ int main(){
     int sum = 0;
 
 Do
-    print
+    printf("enter the number, ");
+    scanf("%d", &num);
+    
 }
