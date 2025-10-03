@@ -9,8 +9,8 @@ do{
 if(num>0);
 sum += num;
 }
-while(sum>0); 
-    printf("%d sum of number," &sum);
+while(num>0); 
+    printf("sum of number= %d\n" ,sum);
 } 
 
 #include <stdio.h>
