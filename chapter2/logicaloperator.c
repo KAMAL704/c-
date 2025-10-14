@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int a = 5, b = 10;
+    int a = 5, b = 5;
 
     
     if (a > 0 && b > 0)
