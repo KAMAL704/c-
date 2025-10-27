@@ -32,7 +32,7 @@ break;
 
 case 7:
 printf("Saturday");
-break; 
+break; }
 return 0;
 
 
