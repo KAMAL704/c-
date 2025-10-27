@@ -10,7 +10,7 @@
 int main() {
     int a;
     float b;
-    char 
+    char c;
     printf("%d\n",sizeof a);
     printf("%d\n",sizeof b );
     
