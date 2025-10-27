@@ -13,6 +13,7 @@ int main() {
     char c;
     printf("%d\n",sizeof a);
     printf("%d\n",sizeof b );
+    printf("%d\n",sizeof b );
     
     return 0;
 }
