@@ -3,7 +3,8 @@ int main(){
     int a =10;
     int b = 4;
     int c ;
-   
+    printf("enter the number");
+    scanf("%d", &c);
     switch(c){
         case 1:
         printf("%d",a+b);
