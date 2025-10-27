@@ -7,6 +7,7 @@ int main() {
     if (a > 0 && b > 0)
         printf("AND: \n");
 
+        
     
     if (a > 0 || b < 0)
         printf("OR: At least one condition is true.\n");
