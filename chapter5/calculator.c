@@ -3,7 +3,7 @@ int main(){
     int a =10;
     int b = 4;
     int c ;
-    printf("enter the casevnumber");
+    printf("enter the casebnumber");
     scanf("%d", &c);
     switch(c){
         case 1:
