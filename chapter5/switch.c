@@ -31,7 +31,7 @@ printf("Friday");
 break; 
 
 case 7:
-printf("Saturday");
+printf("Satur day");
 break; 
 return 0;
 
