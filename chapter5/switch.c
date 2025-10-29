@@ -2,7 +2,7 @@
 int main(){
 int day ;
 printf("enter the number: ");
-scanf("%d")
+scanf("%d" , )
     
 
 
