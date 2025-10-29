@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 int day ;
-printf("enter the number ")
+printf("enter the number: ")
     
 
 
