@@ -4,6 +4,7 @@ int day ;
 
 
 
+
 switch(day){
 case 1:
 printf("Sunday");
