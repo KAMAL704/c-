@@ -7,7 +7,7 @@ scanf("%d" , &Day);
 
 
 
-switch(day){
+switch(ay){
 case 1:
 printf("Sunday");
 break; 
