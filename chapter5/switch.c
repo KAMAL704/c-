@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-int day ;
+int Day ;
 printf("enter the number: ");
 scanf("%d" , &Day);
     
