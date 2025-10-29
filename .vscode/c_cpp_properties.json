@@ -11,7 +11,7 @@
             "compilerArgs": [
                 ""
             ],
-            "compilerPath": "‪C:\\mingw64\\mingw32\\bin\\gcc.exe"
+            "compilerPath": "C:\\MinGW\\bin\\gcc.exe"
         }
     ],
     "version": 4

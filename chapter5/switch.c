@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-int day 5;
+int day 
     
 
 
