@@ -34,7 +34,4 @@ int main(){
     int a = 11;
     int b = 5;
     int c ;
-    printf("enter the number");
-    scanf()
-
-}
+    printf("enter the number
