@@ -32,6 +32,6 @@
 #include<stdio.h>
 int main(){
     int a = 11;
-    in
+    int b = 56
 
 }
