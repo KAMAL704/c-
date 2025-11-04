@@ -35,6 +35,7 @@ int main(){
     int b = 5;
     int c ;
     printf("enter the number");
-    scan
+    scanf
+
 
 }
