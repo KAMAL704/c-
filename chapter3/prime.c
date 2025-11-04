@@ -10,8 +10,7 @@ int main() {
         printf("Not Prime");
     else if (n == 2)
         printf("Prime");
-    else if (n % 2 == 0)
-        printf("Not Prime");
+   
     else if (n % 3 == 0 && n != 3)
         printf("Not Prime");
     else if (n % 5 == 0 && n != 5)
