@@ -34,6 +34,6 @@ int main(){
     int a = 11;
     int b = 5;
     int c ;
-    printf("")
+    printf("enter the number")
 
 }
