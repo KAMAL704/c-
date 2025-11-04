@@ -31,7 +31,7 @@
 
 #include<stdio.h>
 int main(){
-    int a = 11
+    int a = 11;
     in
 
 }
