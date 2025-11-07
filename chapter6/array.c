@@ -10,8 +10,10 @@
 
 #include<stdio.h>
 int main(){
-    int a [10] = {1,4,7,5,9,42,56,11,55,353};
-    for{}
-    printf("%d", a[3]);
+    int i [10] = {1,4,7,5,9,42,56,11,55,35};
+    for(int i = 0; i<=10; i++)
+    {
+    printf("value of i","%d\n" , i);
+}
     return 0;
 }
