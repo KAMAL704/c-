@@ -1,9 +1,9 @@
-
-
 #include<stdio.h>
 int main(){
-    printf("Myself kamal from Rajasthan. \nTrade GCS and Reg.No.254034051");
-    return 0;
+    int num;
+printf("enter the number"); 
+scanf("%d" , &num);
+if(num==0)
+printf("invalid");
+return 0;
 }
-
-
